@@ -15,4 +15,4 @@ Compare functionality (vimdiff <file1> <file2> from command prompt)
 
 Make sure to install exuberant ctags to get the full benefit. Tags are generated on every save, so you do not have to worry about generating the tags file yourself.
 
-The plugins were initially assembled for C, though I have used it for other development as well.
+The plugins were initially assembled for C, though I have used it for other development as well. I did not write the plugins, they are an assortment of various popular Vim plugins that I have found useful.
